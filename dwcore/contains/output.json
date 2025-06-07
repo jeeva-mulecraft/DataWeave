@@ -1,0 +1,5 @@
+{
+  "exampleDomainContacts": [
+    { "name": "John", "email": "john.doe@example.com" }
+  ]
+}

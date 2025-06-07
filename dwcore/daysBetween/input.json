@@ -1,0 +1,6 @@
+{
+  "projects": [
+    { "name": "Project A", "startDate": "2023-01-01", "endDate": "2023-01-10" },
+    { "name": "Project B", "startDate": "2023-02-01", "endDate": "2023-03-01" }
+  ]
+}

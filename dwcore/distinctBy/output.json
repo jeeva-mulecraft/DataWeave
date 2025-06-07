@@ -1,0 +1,9 @@
+{
+  "uniqueOrders": {
+    "Electronics": [
+      { "orderId": "O1", "item": "Laptop" },
+      { "orderId": "O2", "item": "Phone" }
+    ],
+    "Clothing": null
+  }
+}

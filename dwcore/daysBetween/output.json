@@ -1,0 +1,6 @@
+{
+  "projectDurations": [
+    { "name": "Project A", "durationDays": 9 },
+    { "name": "Project B", "durationDays": 28 }
+  ]
+}

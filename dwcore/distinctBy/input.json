@@ -1,0 +1,14 @@
+{
+  "orderData": {
+    "category": "Electronics",
+    "orders": [
+      { "orderId": "O1", "item": "Laptop" },
+      { "orderId": "O1", "item": "Laptop" },
+      { "orderId": "O2", "item": "Phone" }
+    ]
+  },
+  "emptyCategory": {
+    "category": "Clothing",
+    "orders": null
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "measurements": [
+    { "id": 1, "target": 100, "actual": 95 },
+    { "id": 2, "target": 100, "actual": 105 },
+    { "id": 3, "target": 100, "actual": 100 }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "differences": [
+    { "id": 1, "absoluteDifference": 5 },
+    { "id": 2, "absoluteDifference": 5 },
+    { "id": 3, "absoluteDifference": 0 }
+  ]
+}

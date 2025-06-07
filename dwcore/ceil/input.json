@@ -1,0 +1,7 @@
+{
+  "items": [
+    { "name": "Book", "cost": 12.34 },
+    { "name": "Pen", "cost": 5.67 },
+    { "name": "Notebook", "cost": 3.99 }
+  ]
+}

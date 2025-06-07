@@ -1,0 +1,16 @@
+{
+  "roundedCosts": [
+    {
+      "name": "Book",
+      "roundedCost": 13
+    },
+    {
+      "name": "Pen",
+      "roundedCost": 6
+    },
+    {
+      "name": "Notebook",
+      "roundedCost": 4
+    }
+  ]
+}

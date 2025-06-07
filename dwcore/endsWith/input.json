@@ -1,0 +1,7 @@
+{
+  "files": [
+    { "id": 1, "fileName": "report.pdf" },
+    { "id": 2, "fileName": null },
+    { "id": 3, "fileName": "image.png" }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "contacts": [
+    { "name": "John", "email": "john.doe@example.com" },
+    { "name": "Jane", "email": null },
+    { "name": "Bob", "email": "bob.smith@other.com" }
+  ]
+}
